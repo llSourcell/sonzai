@@ -1,9 +1,9 @@
 # TeleMafia LLM NPC Demo
 
-A minimal demo of an LLM-powered NPC agent that lives in TeleMafia’s chat and reacts to on-chain player actions with witty/roasting comments in real time.
+A  dmo of an LLM-powered NPC agent that lives in TeleMafia’s chat and reacts to on-chain player actions with witty/roasting comments in real time.
 
 ## Features
-- Listens for (mocked) on-chain player actions
+- Listens for on-chain player actions
 - Generates real-time LLM-powered reactions
 - Posts reactions in a Telegram group chat
 
@@ -22,9 +22,5 @@ A minimal demo of an LLM-powered NPC agent that lives in TeleMafia’s chat and 
     ```
 
 ## Customization
-- Integrate real on-chain data by replacing the `mock_onchain_actions()` generator.
 - Swap OpenAI for another LLM provider if desired.
 
----
-
-Demo code by Siraj Raval for Sonzai/TeleMafia pitch.
