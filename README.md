@@ -1,6 +1,6 @@
 # TeleMafia LLM NPC Demo
 
-A  dmo of an LLM-powered NPC agent that lives in TeleMafia’s chat and reacts to on-chain player actions with witty/roasting comments in real time.
+A  demo of an LLM-powered NPC agent that lives in TeleMafia’s chat and reacts to on-chain player actions with witty/roasting comments in real time.
 
 ## Features
 - Listens for on-chain player actions
